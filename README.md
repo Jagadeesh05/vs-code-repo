@@ -2,5 +2,5 @@
 visual studio code practice repository
 
 
-##sub header
+## sub header
 created in local machine
